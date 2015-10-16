@@ -1,6 +1,6 @@
 name: Bergie
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.8032312630675733
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: follow
     item: null
     url: null
+typography_spectrum: 0.09763237088918686
