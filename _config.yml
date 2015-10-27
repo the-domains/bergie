@@ -2,6 +2,10 @@ name: Bergie
 favicon: null
 layout_spectrum: 0.1708
 typography_spectrum: 0.65438
+author:
+  name: Henri Bergius
+  email: henri.bergius@iki.fi
+  url: 'http://bergie.iki.fi'
 cta:
   domain: null
   bucket: null
@@ -21,7 +25,7 @@ color:
     - '#888880'
     - '#000000'
     - '#000000'
-  brandStrength: 1
+  brandStrength: 0.9375
   lightness: 0.6875
   saturation: 0.3125
   rhythmicContrast: 0.75
@@ -29,7 +33,3 @@ purpose:
   - name: follow
     item: null
     url: null
-author:
-  name: Henri Bergius
-  email: "henri.bergius@iki.fi"
-  url: "http://bergie.iki.fi"
