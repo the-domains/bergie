@@ -1,5 +1,19 @@
+name: Bergie
+favicon: null
+layout_spectrum: 0.8032312630675733
+typography_spectrum: 0.09763237088918686
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
   google: UA-75936-2
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#C0C0B8'
@@ -7,14 +21,11 @@ color:
     - '#888880'
     - '#000000'
     - '#000000'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 0.5
-  rhythmicContrast: 0.5
   saturation: 0.5
-cta: {}
-layout_spectrum: 0.8032312630675733
-name: Bergie
-opengraph: {}
+  rhythmicContrast: 0.5
 purpose:
   - name: follow
-typography_spectrum: 0.09763237088918686
+    item: null
+    url: null
