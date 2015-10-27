@@ -29,3 +29,7 @@ purpose:
   - name: follow
     item: null
     url: null
+author:
+  name: Henri Bergius
+  email: "henri.bergius@iki.fi"
+  url: "http://bergie.iki.fi"
