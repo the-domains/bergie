@@ -29,7 +29,5 @@ color:
   lightness: 0.6875
   saturation: 0.3125
   rhythmicContrast: 0.75
-purpose:
-  - name: follow
-    item: null
-    url: null
+purpose: []
+github: true
